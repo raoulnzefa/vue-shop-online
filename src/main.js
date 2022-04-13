@@ -4,6 +4,7 @@ import router from './router'
 import './plugins/element.js'
 
 console.log('hhhh');
+console.log('hhhh');
 
 Vue.config.productionTip = false
 
