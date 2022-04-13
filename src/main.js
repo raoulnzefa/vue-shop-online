@@ -5,6 +5,7 @@ import './plugins/element.js'
 
 console.log('hhhh');
 console.log('hhhh');
+console.log('sdfd')
 
 Vue.config.productionTip = false
 
