@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import './plugins/element.js'
 
-console.log('hhhh');
+console.log('在ggg分支改了代码');
 
 Vue.config.productionTip = false
 
