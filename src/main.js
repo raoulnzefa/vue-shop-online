@@ -3,9 +3,7 @@ import App from './App.vue'
 import router from './router'
 import './plugins/element.js'
 
-console.log('hhhh');
-console.log('hhhh');
-console.log('sdfd')
+console.log('hhh分支也改变了代码');
 
 Vue.config.productionTip = false
 
