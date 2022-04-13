@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import './plugins/element.js'
 
-console.log('dev03修改的代码')
+console.log('main');
 
 Vue.config.productionTip = false
 
